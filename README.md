@@ -1,5 +1,6 @@
 # Python-project-color-detection
 FUNCTIONS AND COMMANDS USED IN MY PROJECT:
+
 #Creating argument parser using argparse to take image path from command line
 #Here I've used command prompt
 #Reading the image with the opencv command imread
